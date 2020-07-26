@@ -20,6 +20,8 @@ In order to show an analysis for the Goals, the data is organized into ranges of
 
 The results show that none of the project had canceled goals, there is a relative correlation between Successful and Failed projects and the less the goal is, the maximum of Percentage Successful is with 76%. Also, in the range of 45,000 to 49,999 is when less percentage of Successful projects are presented with 0% and the maximum of canceled projects are obtained with 100%.
 
+![Chart Based on Goals](Resources/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered    
 
 The challenges encountered were in trying to organize the data in the format of months for the Outcomes Based in Launch Date due to the variety of years an therefore, in the beginning I did not find logic to organize only the months without mention the years because I have always thought that is a relative association to put all together the months of different years without knowing a complete story of a company, a project or an industry.
