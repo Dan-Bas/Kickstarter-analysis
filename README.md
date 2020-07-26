@@ -12,7 +12,7 @@ For this analysis are taking the data from Kickstarter platform and extract only
 
 After reaching this approach the results are showing that the month of May has more activity and more outcomes as successful with 111 campaigns; the coming months have a decrease in successful campaigns but the failed campaigns are not correlative and those are sustained in the range of 40 to 50  per month. Also, the report shows that the month of December has the same amount between successful and canceled and the activity is quite low.
 
-![Chart Based on Launch Date](Resources/Outcomes_vs_Goals.png)
+![Chart Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
