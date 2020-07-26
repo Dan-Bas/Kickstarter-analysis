@@ -12,7 +12,9 @@ For this analysis are taking the data from Kickstarter platform and extract only
 
 After reaching this approach the results are showing that the month of May has more activity and more outcomes as successful with 111 campaigns; the coming months have a decrease in successful campaigns but the failed campaigns are not correlative and those are sustained in the range of 40 to 50  per month. Also, the report shows that the month of December has the same amount between successful and canceled and the activity is quite low.
 
-### Analysis of Outcomes Based Goals
+![Chart Based on Launch Date](Resources/Outcomes_vs_Goals.png)
+
+### Analysis of Outcomes Based on Goals
 
 In order to show an analysis for the Goals, the data is organized into ranges of amount of goals. Then, extract the outcomes based on successful, failed and canceled for each range. The ranges are sort from less than $1,000 and go from intervals of $5,000 until come to the last range which is more than $50,000. After sorting this info, are determining the percentages of each range per classification: Percentage Successful, Percentage Failed, Percentage Canceled.
 
