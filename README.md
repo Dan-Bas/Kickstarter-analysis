@@ -39,7 +39,7 @@ Another challenge was to convert the original dates in a format that can be read
   - The conclusion about the Outcomes based on Goals is that there is a negative relation between the Percentage Successful and the Goal of the project. The less is the amount of the goal more is the Percentage of successful campaigns. As we see in the chart, in the range of “Less Than 1,000” the percentage of success is 76% and the range of “45,000 to 49,999” has 0%. The range of “Grater than 50,000” is one of the lowest in term of successful with 17% meanwhile the percentage of failed has 83%.
 
 - What are some limitations of this dataset?
-  - One of the limitations I could find is that in the analysis Based on Launch Dates. All the years has no data for all months for example in 2010 there is data only for July October and December; for 2011 there is data only for March, April and December. This kind of limitations give me doubts about the analysis presented. Therefore, the affirmation about the month of May is the best to launch a campaign is really accurate?
+  - One of the limitations I could find is that in the analysis Based on Launch Dates all the years has no data for all months for example in 2010 there is data only for July, October and December; for 2011 there is data only for March, April and December. This kind of limitations give me doubts about the analysis presented. Therefore, the affirmation about the month of May is the best to launch a campaign is really accurate?
 
 - What are some other possible tables and/or graphs that we could create?
   - We can create tables and graphs based on countries, or the length of the projects in order to conclude different factors. 
