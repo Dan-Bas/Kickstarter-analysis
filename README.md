@@ -28,6 +28,8 @@ The challenges encountered were in trying to organize the data in the format of 
 
 Another challenge was to convert the original dates in a format that can be read, the concept to apply a formula to convert numbers to dates was totally new for me and there was something that could be a potential challenge if the specifics of knowing that are missing.
 
+## Results
+
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   1. The month of May is the best month to launch a campaign with 111 Successful projects, also June and July seem to be good months with 100 and 87 Successful projects, respectively. 
   2. The month of December is the worst of the whole year with 37 Failed campaigns. In Addition, almost the same number of Failed projects are reported in that month with 35 outcomes. So is not recommended to launch a camping at the end of the year. 
